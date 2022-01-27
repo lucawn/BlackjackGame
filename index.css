@@ -1,0 +1,37 @@
+html{
+    font-size: 10px;
+}
+body {
+    background-image: url("/BlackjackGame/images/table.png");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 8rem;
+
+
+}
+
+button{
+    background-color: goldenrod;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #016f32;
+    border: none;
+    padding: 5px 5px;
+    width: 300px;
+    margin-top: 10px 10px;
+    border-radius: 5px;
+    
+}
+
+#message-el {
+    font-style: italic;
+}
